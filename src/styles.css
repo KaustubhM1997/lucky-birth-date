@@ -1,0 +1,71 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #fce7f3;
+}
+
+.result {
+  color: #be185d;
+}
+
+.bg-image {
+  height: 20vh;
+}
+
+input {
+  padding: 0.5rem;
+  width: 15rem;
+  height: 5vh;
+  border-radius: 0.5rem;
+  outline: none;
+  border: none;
+  color: #be185d;
+}
+
+button {
+  padding: 0.5rem;
+  width: 7rem;
+  height: 7vh;
+  border-radius: 1rem;
+  border: none;
+  color: white;
+  background-color: #be185d;
+}
+
+h3 {
+  margin-top: 2rem;
+}
+
+.footer-header {
+  padding-top: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-bottom: 1rem;
+  color: #be185d;
+}
+
+.footer-symbol {
+  font-size: 1.5rem;
+}
+
+.list-non-bullet {
+  list-style: none;
+}
+
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+
+.link {
+  text-decoration: none;
+  padding: 0rem 1rem;
+  color: #6b7280;
+}
+
+.footer ul {
+  padding-inline-start: 0px;
+}
