@@ -9,7 +9,7 @@ The user needs to do three things, namely:
 2. Enter their lucky number
 3. Click on the Check Button
 
-As soon as the user does this, the App would display a message showing whether your birtday is lucky or not.
+As soon as the user does this, the App would display a message showing whether their birtday is lucky or not.
 
 ### How does the App decide that?
 
