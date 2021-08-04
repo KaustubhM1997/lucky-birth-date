@@ -14,3 +14,7 @@ As soon as the user does this, the App would display a message showing whether t
 ### How does the App decide that?
 
 Basically, if the sum of digits in your birth date is divisible by your lucky number then the App would show that your birthday is lucky or else it would show unlucky. To learn more, check out the ABOUT section above. 
+
+## Privacy Notice:
+
+We do not store your personal data and information.
